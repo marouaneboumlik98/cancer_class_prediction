@@ -4,7 +4,7 @@ This report presents multiple machine learning approaches to classify cancer bas
 
 ## Data_Base
 
-We used the database on : [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq).
+We used the database on : [gene expression cancer RNA-Seq](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq).
 
 ## Keywords: 
 Machine Learning, Deep Learning, UMAP, ANN, XGBoost, SVM.
